@@ -1,0 +1,13 @@
+body{
+    
+    font-family: Georgia, 'Times New Roman';
+    background-image:url(paper.gif);
+}
+h1 {
+    color: rgb(78, 4, 4);
+    text-shadow: 2px 2px 4px #000000;
+  }
+  h2,h3{
+      color:rgb(153, 51, 68);
+  }
+  
